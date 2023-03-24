@@ -4,4 +4,6 @@
 # [Live Demo]( https://gihadnagy.github.io/Fast-Food-Portfolio/)
 - html
 - css
+- JS
+
 
